@@ -23,3 +23,9 @@ For a live demo, visit [https://stack-card.vercel.app](https://stack-card.vercel
 
 -   Supports reputation & badges count
 -   Shows username, title and location (if available on profile)
+
+## Future
+
+- All stack-sites support
+- Show user's reputation graph
+- Show user's top tags
