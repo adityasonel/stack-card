@@ -4,15 +4,15 @@
 
 ## Demo
 
-<img src="https://github.com/adityasonel/stack-card/blob/master/screenshot.png" width=410></img>
+<img src="https://github.com/adityasonel/stack-card/blob/master/screenshot.png" width=370></img>
 
-For a live demo, visit [https://adityasonel.github.io/stack-card](https://adityasonel.github.io/stack-card).
+For a live demo, visit [https://stack-card.vercel.app](https://stack-card.vercel.app).
 
 ## Usage
 
 ```
 <!-- head -->
-<script src="https://adityasonel.github.io/stack-card/stack-card.js"></script>
+<script src="https://stack-card.vercel.app/stack-card.js"></script>
 
 
 <!-- inside body, where you want to create the card -->
