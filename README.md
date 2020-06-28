@@ -1,10 +1,10 @@
 # Stack-Card
 
-😎 showcase stack-over-flow reputations & badges on your website 🤘!
+😎 A simple utility to showcase StackOverFlow reputations & badges on your website 🤘
 
 ## Demo
 
-<img src="https://github.com/adityasonel/stack-card/blob/master/screenshot.png" width=370></img>
+<img src="https://github.com/adityasonel/stack-card/blob/master/screenshot.png" width=350></img>
 
 For a live demo, visit [https://stack-card.vercel.app](https://stack-card.vercel.app).
 
@@ -19,12 +19,23 @@ For a live demo, visit [https://stack-card.vercel.app](https://stack-card.vercel
 <div class="stack-card" user-id="your-user-id"></div>
 ```
 
+## How to find your StackOverFlow userid
+
+```
+StackOverFlow userid is the number in the middle of your profile URL,
+
+http://stackoverflow.com/users/3349551/username
+------------------------------^^^^^^^^
+This number also appears in links to your answers, and to any link you share, 
+which helps track who shared the link (which is how you get the Publicist badge)
+```
+
 ## Features
 
 -   Supports reputation & badges count
 -   Shows username, title and location (if available on profile)
 
-## Future
+## Upcoming
 
 - All stack-sites support
 - Show user's reputation graph
