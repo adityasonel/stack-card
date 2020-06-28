@@ -18,3 +18,8 @@ For a live demo, visit [https://stack-card.vercel.app](https://stack-card.vercel
 <!-- inside body, where you want to create the card -->
 <div class="stack-card" user-id="your-user-id"></div>
 ```
+
+## Features
+
+-   Supports reputation & badges count
+-   Shows username, title and location (if available on profile)
